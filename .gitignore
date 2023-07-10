@@ -130,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/docker_start/redis/data/
+/docker_start/mysql/data/
